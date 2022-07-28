@@ -1,0 +1,13 @@
+body {
+	background-color: skyblue;
+	font-family: Tahoma;
+	font-size: 14px;
+}
+h1 {
+	color: #3F9BCA;
+	margin-left: 20px;
+}
+p {
+	color: #444444;
+	margin-left: 20px;
+}
